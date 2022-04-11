@@ -2043,6 +2043,4 @@ SELECT * FROM find_book('Oracle', 3);
 $ docker exec -it --user "$(id -u):$(id -g)" pgadmin sh -c "rm -rf /var/sqldump/sqlprimer-2019-msu-10.tgz /var/sqldump/task11/*" # эти файлы больше не нужны
 ```
 
-## Финальная работа ##
 
-Отчет располается в файле [FINAL_WORK.md](https://github.com/alex-12345/posgreSQL/blob/main/FINAL_WORK.md)
